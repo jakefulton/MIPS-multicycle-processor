@@ -1,7 +1,3 @@
---Jake Fulton
---51804736
-
-
 LIBRARY IEEE; 
 USE IEEE.std_logic_1164.all;
 USE IEEE.std_logic_unsigned.all;
